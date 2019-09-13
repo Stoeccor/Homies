@@ -1,2 +1,4 @@
-test
-2. Test Corinne & Patrick
+Trello Link:
+https://trello.com/b/Urmhq2fo/homies
+Projektbeschreibung:
+Simulation einens Smart Home Projektes
