@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:-207px;
-  width:188px;
+  width:234px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -21,7 +21,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:188px;
+  width:234px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -39,7 +39,7 @@
   position:absolute;
   left:207px;
   top:208px;
-  width:188px;
+  width:234px;
   height:37px;
   display:flex;
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
